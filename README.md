@@ -32,11 +32,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" title="MongoDB">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" title="Git">
   <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100" title="VS Code">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" title="Linux">
   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100" title="GitHub">
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" title="MySQL">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" title="Java">
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100" title="Python">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
@@ -66,9 +63,7 @@
 
 - 🥇 Built multiple full-stack projects independently  
 - 📜 Certified in Web Development & Database Systems  
-- 🧠 Strong knowledge in Express.js, REST APIs & SQL joins  
-- 🌍 Participated in multiple inter-college tech events  
-- 🛠️ Deployed projects on GitHub Pages and Render  
+- 🧠 Strong knowledge in Express.js, REST APIs & SQL joins   
 
 ---
 
@@ -77,7 +72,7 @@
 Let's connect and collaborate:
 
 - 📧 Email: [annusawant59@gmail.com](mailto:annusawant59@gmail.com)  
-- 💼 LinkedIn: [Anushka Sawant](https://www.linkedin.com/in/anushka-sawant) *(update link if needed)*  
+- 💼 LinkedIn: [Anushka Sawant](https://www.linkedin.com/in/anushka-sawant-43938a1b7/)
 - 📱 Portfolio: *coming soon*  
 - 🌍 Location: Pune, India  
 
@@ -86,6 +81,3 @@ Let's connect and collaborate:
 > “Turning creativity into code, and ideas into impact.”  
 > — Anushka Sawant
 
----
-
-Let me know if you want me to export this as a downloadable `README.md` file, or want to include badges like GitHub stats, visitor count, or code streak.
